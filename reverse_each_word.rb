@@ -10,3 +10,4 @@ end
   #inster split string into an Array
   #reverse each word 
   #return reversed sentence
+  #use collect
